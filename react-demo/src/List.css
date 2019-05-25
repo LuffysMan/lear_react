@@ -1,5 +1,21 @@
-.list-item{
-    display: flex;
+.finished{
+    background-color: #222222;
+    color: #eeeeee;
+    border-radius: 5px;
+}
+
+.unfinished{
+    background-color: #669900;
+    color: #eeeeee;
+    border-radius: 5px;  
+}
+
+.stateCol{
+    width: 10em;
+}
+
+.optionCol{
+    width: 6em;
 }
 
 .btn{
